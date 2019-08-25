@@ -1,6 +1,6 @@
 # bicycleapp
 
-A new Flutter project.
+THis projecyt I was following a tutorial
 
 ## Getting Started
 
